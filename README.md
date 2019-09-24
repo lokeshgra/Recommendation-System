@@ -3,7 +3,7 @@
 
 # About Input files:-
 
-##Dataset used in Project
+## Dataset used in Project
 
 **Movie Data Set**
 4500-5000 movies
@@ -23,7 +23,9 @@ predict rating of the users and find similarity b/w users using **Pearson Correl
 
 # Summary of the Project
 first of all pre-process the data of movie_dataset then calculate similarity bw movie with other movies
+
 **input:-** Movie name
+
 
 then System will suggest top 50 movies related to input_movie
 
